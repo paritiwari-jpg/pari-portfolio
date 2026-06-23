@@ -30,34 +30,28 @@ I mainly design interfaces in Figma and explore how real apps are built using Re
 ## 📸 Portfolio Screenshots
 
 ### 🖥️ Home Page
-![Home](./assets/Portfolio1.png)
+![Home](./public/Portfolio1.png)
 
 ---
 
 ### 🎨 About Section
-![About](./assets/Portfolio2.png)
+![About](./public/Portfolio2.png)
 
 ---
 
 ### 🛍️ Projects Section
-![Projects](./assets/Portfolio3.png)
+![Projects](./public/Portfolio3.png)
 
 ---
 
 ### 📩 Contact Section
-![Contact](./assets/Portfolio4.png)
+![Contact](./public/Portfolio4.png)
 
 ---
 
 ## 📩 Contact
 
 📧 Email: **parikirantiwari2412@gmail.com**
-
----
-
-## 🌐 Live Website
-
-(Add your Vercel link here after deployment)
 
 ---
 
