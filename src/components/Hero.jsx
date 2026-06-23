@@ -5,15 +5,15 @@ function Hero() {
 
       <h1 style={styles.title}>Hi, I'm Pari Tiwari 👋</h1>
 
-      {/* ONLY ONE BLOCK */}
       <div style={styles.block}>
         <p style={styles.role}>
-          UI/UX Designer • Figma Learner • App Development Beginner
+          UI/UX Designer • Figma Designer • React Developer (Beginner)
         </p>
 
         <p style={styles.desc}>
-          I mainly design interfaces in Figma and explore how real apps are
-          built using React.
+          I design clean and modern user interfaces in Figma and build web
+          applications using React. I enjoy turning ideas into simple,
+          user-friendly digital experiences.
         </p>
       </div>
     </section>
@@ -64,7 +64,7 @@ const styles = {
 
   desc: {
     fontSize: "15px",
-    fontWeight: "600",
+    fontWeight: "500",
     color: "#000",
     lineHeight: "1.6",
   },

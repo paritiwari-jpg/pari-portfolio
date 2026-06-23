@@ -4,25 +4,26 @@ function About() {
       <h2 style={styles.heading}>About Me</h2>
 
       <p style={styles.text}>
-        I am a UI/UX Designer and App Development learner. I mainly design
-        interfaces in Figma and explore how real apps are built using React.
+        I am a UI/UX Designer and Frontend Developer. I focus on designing
+        clean, modern, and user-friendly interfaces in Figma and building
+        responsive web apps using React.
       </p>
 
       <div style={styles.card}>
         <h3>🎨 UI/UX Design</h3>
-        <p>Creating clean and modern user-friendly interfaces in Figma.</p>
+        <p>Creating simple and aesthetic interfaces in Figma.</p>
       </div>
 
       <div style={styles.card}>
-        <h3>📱 App Development</h3>
-        <p>Learning how to convert designs into real working applications.</p>
+        <h3>⚛️ Frontend Development</h3>
+        <p>Building interactive web applications using React.</p>
       </div>
 
       <div style={styles.card}>
-        <h3>🌱 Current Stage</h3>
+        <h3>🌱 Learning Approach</h3>
         <p>
-          I am still a beginner in coding but actively improving by building
-          small React projects.
+          I improve my skills by working on real projects and practicing UI/UX
+          and frontend development.
         </p>
       </div>
     </section>
@@ -45,7 +46,7 @@ const styles = {
   text: {
     maxWidth: "600px",
     margin: "10px auto 30px",
-    opacity: 0.8,
+    opacity: 0.85,
   },
 
   card: {
