@@ -1,16 +1,25 @@
-# React + Vite
+# 🌸 Pari Tiwari Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using React and Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💖 About Me
+I am a UI/UX Designer and App Development learner. I mainly design interfaces in Figma and explore how real apps are built using React.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Projects
+- UI/UX Designs (Figma)
+- React Portfolio Website
+- E-Commerce Website
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📩 Contact
+Email: parikirantiwari2412@gmail.com
+
+---
+
+## 🌐 Live Website
+(Add your Vercel link here after deploying)
